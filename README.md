@@ -314,6 +314,10 @@ asynchronous call would go through. To see a more visual example of code slowed
 down, see this little [tool][callstack-visual] that slows down code to a pace
 where you can see it execute.
 
+As I mentioned, you should really see [Philip Roberts' talk][event-loop] on
+this. Understanding this concept really helps solidify your JavaScript
+knowledge.
+
 [hanoi]: https://en.wikipedia.org/wiki/Tower_of_Hanoi
 [event-loop]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 [callstack-visual]: http://latentflip.com/loupe
